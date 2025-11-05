@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
+body{height: auto;}
+body { background-image: url(/Pic-1.JPG); 
+background-repeat: no-repeat; background-attachment: scroll;
+background-size: 100%;
+}
+.text-1{
+    color: goldenrod; width: auto; margin-top: 70%; text-align: center;
+    font-family: "Moul", serif; font-size: 5.5vw; text-shadow: 2px 2px gold;
+}
+.logo-1{
+     width: 30%; 
+     display: flex; justify-content: center; align-content: center; margin: auto;
+     margin-top: 3vw; margin-bottom: 3vw;
+}
+.text-2{
+    color: goldenrod; text-align-last: center; text-shadow: 2px 2px gold;
+    font-family: "Moul", serif; font-size: 5vw; margin-bottom: 10vw; margin-top: 10vw;
+}
+.text-3{ color: gold; font-family: "Moul", serif; font-size: 3vw;text-align: center; margin-top: -45vw;
+    ; padding: 1vw; width: auto; height: auto; margin-left: 20%; margin-right: 20%;
+        }
+.frame-1{ margin-bottom: 0vw; margin-left: 10%; margin-right: 10%;
+    width: 80%; display: flex; margin-top: -34vw;
+}
+.click-pic{
+width: 10vw; display: flex; margin-left: auto; margin-right: auto; margin-top: 10%;}
+
+h5{font-size: 2vw; text-align: center; font-family: "Siemreap", sans-serif; 
+    color: blue; font-weight: 400; margin-top: 0%; margin-bottom: 16%; }
+   
