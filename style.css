@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
-body{height: auto;}
-body { background-image: url(/Pic-1.JPG); 
+*{width: 100vw; ;}
+
+body { background-image: url(/BG-1.png); 
 background-repeat: no-repeat; background-attachment: scroll;
 background-size: 100%;
 }
 .text-1{
-    color: goldenrod; width: auto; margin-top: 70%; text-align: center;
+    color: goldenrod; width: auto; margin-top: 63%; text-align: center;
     font-family: "Moul", serif; font-size: 5.5vw; text-shadow: 2px 2px gold;
 }
 .logo-1{
@@ -15,17 +16,28 @@ background-size: 100%;
 }
 .text-2{
     color: goldenrod; text-align-last: center; text-shadow: 2px 2px gold;
-    font-family: "Moul", serif; font-size: 5vw; margin-bottom: 10vw; margin-top: 10vw;
+    font-family: "Moul", serif; font-size: 4vw; margin-bottom: 10vw; margin-top: 05vw;
 }
-.text-3{ color: gold; font-family: "Moul", serif; font-size: 3vw;text-align: center; margin-top: -45vw;
+.text-3{ color: gold; font-family: "Moul", serif; font-size: 3vw;text-align: center; margin-top: -47vw;
     ; padding: 1vw; width: auto; height: auto; margin-left: 20%; margin-right: 20%;
         }
 .frame-1{ margin-bottom: 0vw; margin-left: 10%; margin-right: 10%;
     width: 80%; display: flex; margin-top: -34vw;
 }
-.click-pic{
+.click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176);
 width: 10vw; display: flex; margin-left: auto; margin-right: auto; margin-top: 10%;}
 
 h5{font-size: 2vw; text-align: center; font-family: "Siemreap", sans-serif; 
     color: blue; font-weight: 400; margin-top: 0%; margin-bottom: 16%; }
+    .pka-kolab-1{ position: absolute; width: 40vw; margin-top: -24.5vw; height: 25vh;}
+    .pka-kolab-2{ position: absolute; width: 40vw; margin-top: -24.5vw; height: 25vh; margin-left: 54vw;}
+
+
+    .pka-1{ position: absolute; width: 30vw; margin-top: -38vw; margin-left: -5vw;  }
+    .pka-2{ position: absolute; width: 25vw; margin-top: -30.5vw; margin-left: 13vw; }
+    .pka-12{ position: absolute; width: 15vw; margin-top: -16vw; margin-left: 30vw; }
+
+    .pka-3{ position: absolute; width: 30vw; margin-top: -38vw; margin-left: 74vw; }
+    .pka-4{ position: absolute; width: 25vw; margin-top: -30.5vw; margin-left: 60vw; }
+    .pka-34{ position: absolute; width: 15vw; margin-top: -16vw; margin-left: 51vw; }
    

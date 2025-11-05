@@ -10,15 +10,16 @@
 
 
 
-body { height: 100%; width: 100%;
-background-color: pink;
- position: sticky; top: 0     
-background-size:100%; margin-top: 0px;
+body { 
+background-color: rgba(234, 233, 227, 0.8);
 }
-.Pic-5{width: 100%; position: sticky; top: 0; align-items: center;}
+.Pic-5{ display: block;
+    width: 100vw; position: sticky; top: 0; margin-top: -10px; margin-left: -10px; margin-right: -50px; }
+.logo-3{width: 60%;margin: auto; margin-top: -40%; margin-bottom: 30%; margin-left: 20%;}
+
 tex-0{
     color: goldenrod; width: auto; text-align: center;
-    font-family: "Moul", serif; font-size: 5.5vw; text-shadow: 2px 2px gold; margin-top: -20vw;}
+    font-family: "Moul", serif; font-size: 5.5vw; text-shadow: 2px 2px gold; margin-top: 1000%;}
 
 .text-0{
     color: goldenrod; width: auto; text-align: center;
@@ -26,25 +27,25 @@ tex-0{
 
 
 
-.text-1{ color: red; margin-left: 08%;}
-.text-2{color: blue; margin-left: 02%;}
-.text-3{ color: red; margin-left: 10%;}
-.text-4{color: blue; margin-left: 02%;}
-.text-5{ color: red; margin-left: 6%;}
-.text-6{color: blue; margin-left: 02%;}
-.text-7{ color: red; margin-left: 10%;}
-.text-8{color: blue; margin-left: 02%;}
+.text-1{ color: gold; text-shadow: 1px 1px palevioletred; margin-left: 08%; ;}
+.text-2{color: gold; text-shadow: 1px 1px grey; margin-left: 02%;}
+.text-3{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 10%;}
+.text-4{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
+.text-5{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 6%;}
+.text-6{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
+.text-7{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 10%;}
+.text-8{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
 
 
-.text-p1{color: red; 
+.text-p1{color: goldenrod; margin-top: 50px; text-shadow: 1px 1px wheat;
     font-family: "moul"; text-align: center;}
-.text-p2{color: blue; font-family: "siemreap"; text-align: center; margin-left: 5vw; margin-right: 5vw; font-size: 3.5vw;}
-.text-p3{color: red; margin-left: 15vw ;}
-.text-p4{color: cyan;margin-left: 25vw;}
+.text-p2{color: rgb(239, 223, 5); text-shadow: 2px 1px red; font-family: "siemreap"; text-align: center; margin-left: 5vw; margin-right: 5vw; font-size: 3.5vw;}
+.text-p3{color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 15vw ;}
+.text-p4{color: gold; text-shadow: 1px 1px palevioletred;;margin-left: 25vw;}
 .text-p5{color: goldenrod; text-align: center; margin-top: -5vw;}
-.text-p6{color: rgb(79, 2, 168); margin-left: 10vw;margin-top: -5vw}
-.text-p7{color: rgb(79, 2, 168); margin-left: 20vw;}
-.text-p8{color: brown; font-size: 3.5vw; text-align: center;}
+.text-p6{color: gold; text-shadow: 1px 1px blue; margin-left: 10vw;margin-top: -5vw}
+.text-p7{color: gold; text-shadow: 1px 1px blue;; margin-left: 20vw;}
+.text-p8{color: rgb(160, 136, 107); text-shadow: 1px 1px black ; font-size: 3.5vw; text-align: center;}
 .text-p10,.text-p11,.text-p12{ text-align: center;}
 .text-p10{margin-top: 10vw;}
 .text-p11{margin-top: -3vw;}
@@ -65,30 +66,13 @@ tex-0{
 .Pic-12{width: 123%; padding: 1px; border-radius: 25px}
 .Pic-13{width:  123%; position: relative; margin-left: 50px;border-radius: 25px}
 
-
-
-
-
-
-
 .pic-32{width: 49%; position: relative; margin-top: 1%; padding: 1px; border-radius: 25px;}
 .pic-33{width: 48.5%; position: absolute; margin-top: 1% ; padding: 1px;border-radius: 25px; height: 49.5%;}
 
-
-
-
-
-
-
-
-
-
-
-
-
-.click-pic{
-width: 10vw; display: flex; margin-left: auto; margin-right: auto; margin-top: 10%;}
-h5{font-size: 2vw; text-align: center; font-family: "Siemreap", sans-serif; 
+.click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176);
+width: 15vw; display: flex; margin-left: auto; margin-right: auto; margin-top: 10%;}
+h5{font-size: 3vw; text-align: center; font-family: "Siemreap", sans-serif; 
     color: blue; font-weight: 400; margin-top: 0%;}
 .pic-4{width: 100%; position: absolute; margin-top: -2380px; margin-left: -7px; }
+.footer-2{ font-size: 6vw; }
    
