@@ -11,7 +11,7 @@
 
 
 body { background-image: url("/Pic-1.JPG"); height: 100%; width: 100%;
-background-repeat: no-repeat; background-attachment: fixed;
+background-repeat: no-repeat; 
  position: sticky; top: 0     
 background-size:100%; margin-top: 0px;
 }
