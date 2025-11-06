@@ -39,7 +39,7 @@ tex-0{
 
 .text-p1{color: goldenrod; margin-top: 50px; text-shadow: 1px 1px wheat;
     font-family: "moul"; text-align: center;}
-.text-p2{color: rgb(239, 223, 5); text-shadow: 2px 1px red; font-family: "siemreap"; text-align: center; margin-left: 5vw; margin-right: 5vw; font-size: 3.5vw;}
+.text-p2{color: rgb(239, 223, 5); text-shadow: 1px 1px red; font-family: "siemreap"; text-align: center; margin-left: 5vw; margin-right: 5vw; font-size: 3.5vw;}
 .text-p3{color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 15vw ;}
 .text-p4{color: gold; text-shadow: 1px 1px palevioletred;;margin-left: 25vw;}
 .text-p5{color: goldenrod; text-align: center; margin-top: -5vw;}
